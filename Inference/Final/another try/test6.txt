@@ -1,0 +1,4 @@
+TELL
+~a | ~b | c; ~c | d; ~d | ~e | f; ~f | g; a; b; e; 
+ASK 
+f
